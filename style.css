@@ -6,7 +6,7 @@
 
 
 header {
-    background-image: url(images-et-photos-gratuites-libres-de-droits-te虂le虂chargement-gratuits12-548x581.png);
+    background-image: url(photo/font0.png);
     background-repeat: no-repeat;
     color: aliceblue;
     max-height: 50em;
@@ -50,14 +50,17 @@ h1 {
     font-weight: bold;
 }
 
-.layel {
-    position: relative;
-    left: 37em;
-    top: -24em;
 }
-.telechager {
+.dowload {
     padding-top: 2em;
 }
+
+.screenphone {
+    position: relative;
+    left: 37em;
+    top: -22em;
+}
+
 
 
 
@@ -102,12 +105,12 @@ h3 {
     border:none;
 }
 
-.tel {
+.phone2 {
         position: relative;
         left: -7em;
 }
 
-.bloc {
+.bloc1 {
     position: relative;
     left: 35em;
     top: -30em;
@@ -138,7 +141,7 @@ h5 {
     color: #201f28;
 }
 
-.avantages {
+.avantages1 {
     position: relative;
     top: 11em;
     left: 3.5em;
@@ -148,7 +151,7 @@ h5 {
     color: #201f28;
 }
 
-.avantagesone {
+.avantages2 {
     position: relative;
     left: 53em;
     top: -36em;
@@ -158,7 +161,7 @@ h5 {
     color: #201f28;
 }
 
-.coltel {
+.screenphone1 {
     position: relative;
     left: 24em;
     top: -12em;
@@ -172,7 +175,7 @@ h5 {
 
 
 
-#les-ecran {
+#captures-d-ecran {
     display: block;
     background-color: #f2f6fa;
     position: relative;
@@ -209,9 +212,9 @@ h8 {
 
 
 
-#dowload {
+#two {
     display: block;
-    background-image: url(section.png);
+    background-image: url(photo/font1.png);
     background-repeat: no-repeat;
     position: relative;
     top: -20em;
@@ -229,7 +232,7 @@ h9 {
     color: #ffffff;
 }
 
-.section5 {
+.paragraph4 {
     position: relative;
     top: 8em;
     left: 22.5em;
@@ -241,7 +244,7 @@ h9 {
     color: #ffffff;
 }
 
-.phdowload {
+.dowload1 {
     position: relative;
     top: 10em;
     left: 25em;
@@ -287,7 +290,7 @@ h12 {
     color: #201f28;  
 }
 
-.leag {
+.commentaire {
     position: relative;
     top: -11em;
     left: 1em;
@@ -304,13 +307,13 @@ h12 {
     margin: 0.3em;
 }
 
-.g {
+.rounded-circle1 {
     position: relative;
     top: -6em;
     left: 35em;
 }
 
-.az {
+.commentaire1 {
     position: relative;
     top: -15.7em;
     left: 36.5em;
@@ -319,7 +322,7 @@ h12 {
     color: #201f28;  
 }
 
-.er {
+.name {
     position: relative;
     top: -19em;
     left: 41em;
@@ -329,14 +332,14 @@ h12 {
     color: #7d7d80;
 }
 
-.et {
+.etoil {
     position: relative;
     top: -11em;
     left: 11.8em;
     margin: 0.3em;
 }
 
-.r {
+.etoil1 {
     position: relative;
     top: -10em;
     left: 33em;
@@ -346,7 +349,7 @@ h12 {
 
 
 
-#ardlc {
+#news {
     background-color: #f2f6fa;
     height: 19em;    
 }
@@ -404,35 +407,31 @@ h12 {
 
 
 footer {
-    background-image: url(a.png);
+    background-image: url(photo/font2.png);
     color: #ffffff;
     height: 36em;
 }
 
 
-.k1, .k2 {
+.infocontact, .infocontact1 {
     font-size: 29.5px;
     font-weight: bold;
     line-height: 1.29;  
 }
 
-.k1 {
+.infocontact {
     position: relative;
     left: 13em;
     top: 3em;
 }
 
-.k2 {
+.infocontact1 {
     position: relative;
     left: 6.9em;
     top: 4.3em;
 }
 
-.z {
-    font-size: 18px;
-    font-weight: 600;
-    letter-spacing: 0.18px;  
-}
+
 
 form {
     position: relative;
@@ -454,7 +453,7 @@ form {
     left: 25em;
 }
 
-.m {
+.copyrights {
     font-size: 15px;
     font-weight: 600;
     line-height: 1.87;
@@ -464,7 +463,7 @@ form {
     left: 26em;  
 }
 
-.q {
+.adresse, .mail, .num {
     position: relative;
     left: -1em;
 }
