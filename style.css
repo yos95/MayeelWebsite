@@ -27,8 +27,8 @@ header {
 a {
     color: aliceblue;
     position: relative;
-    top: 5em;
-    right: -1em;
+    top: -5em;
+    right: -30em;
     font-size: 15px;
     font-weight: bold;
     line-height: 1.47;
@@ -49,15 +49,24 @@ h1 {
 
 .titre {
     font-weight: bold;
+    position: relative;
+    left: 1em;
+}
+
+.paragraph1 {
+    position: relative;
+    left: 3em;
 }
 
 .screenphone {
     position: relative;
-    left: 30em;
+    left: 35em;
     top: -24em;
 }
 .dowload {
     padding-top: 2em;
+    position: relative;
+    left: 3em;
 }
 
 
@@ -153,6 +162,7 @@ h5 {
     letter-spacing: 0.15px;
     color: #201f28;
 }
+
 
 .screenphone1 {
     position: relative;
@@ -458,6 +468,3 @@ form {
     left: 26em;  
 }
 
-.sm {
-    background-image: none;
-}
